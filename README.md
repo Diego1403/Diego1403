@@ -13,9 +13,7 @@
 ## 🛠 Skills
 Javascript, HTML, CSS , Flutter , Dart , C++ , MySql , PHP...
 
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=diego1403&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diego1403&theme=dark)](https://git.io/streak-stats)
 
 <p align="center">
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=diego1403&include_all_commits=true&hide_border=true&theme=dark"/>
