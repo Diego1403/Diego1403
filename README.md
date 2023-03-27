@@ -19,12 +19,7 @@ Javascript, HTML, CSS , Flutter , Dart , C++ , MySql , PHP...
 </p>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego1403&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
-</p>
-
-<h4 align="center">Lines of Code per language in the last year only</h4>
-<p align="center">
-	<img width="450em" src="https://api.githubtrends.io/user/svg/diego1403/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
+	[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego1403)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
