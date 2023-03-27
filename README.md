@@ -19,7 +19,7 @@ Javascript, HTML, CSS , Flutter , Dart , C++ , MySql , PHP...
 </p>
 
 <p align="center">
-	[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego1403)](https://github.com/anuraghazra/github-readme-stats)
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=diego1403&show_icons=true&theme=dark#gh-dark-mode-only"/>
 </p>
 
 
