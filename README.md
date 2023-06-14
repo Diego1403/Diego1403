@@ -14,11 +14,6 @@
 Javascript, HTML, CSS , Flutter , Dart , C++ , MySql , PHP...
 
 
-## Stats
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=diego1403&show_icons=true&theme=dark#gh-dark-mode-only"/>
-</p>
-
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego1403/)
