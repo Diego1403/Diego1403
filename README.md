@@ -5,22 +5,13 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-👨‍💻 My main areas of interest are **AI** and **web development**, and I enjoy working on projects that involve both. I believe that AI has the potential to revolutionize the web and make it more intelligent and user-friendly.
-
-🚀 When I'm not coding, you can find me exploring new technologies, reading about the latest trends in tech, or playing video games.
-
-🌟 Feel free to check out my Github repositories to see what I've been working on lately. If you have any questions or want to collaborate on a project, don't hesitate to reach out!
+My main areas of interest are **AI** and **web development**, and I enjoy working on projects that involve both. When I'm not coding, you can find me exploring new technologies, reading about the latest trends in tech, or playing video games.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego1403/)
-[![twitter](https://img.shields.io/badge/twitter-8A2BE2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HolaSoyDiegooo)
+
 
 <br>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" alt="Diego's GitHub Stats" />
-</div>
+
