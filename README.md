@@ -14,7 +14,7 @@
 
 <p align="center">
   🎓 Bachelor's in Informatics<br>
-  🌍 Open to <strong>Data / ML / AI Engineer</strong> roles in the Netherlands & Germany<br>
+  🌍 Open to <strong>Data / ML / AI Engineer</strong> roles <br>
   🎮 Off-hours: gaming, reading about tech, and tinkering with side projects
 </p>
 
@@ -36,13 +36,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-<h3 align="center">Featured projects</h3>
-
-<p align="center">
-  🛬 <a href="https://github.com/Diego1403/flight-delay-prediction"><strong>Flight Delay Prediction</strong></a> — End-to-end ML pipeline on Databricks (Medallion Architecture, PySpark, gradient-boosted models)<br>
-  🧬 <a href="https://github.com/Diego1403/tsp-metaheuristics"><strong>TSP Metaheuristics</strong></a> — Genetic algorithms and differential evolution for the Travelling Salesman Problem<br>
-  👁️ <a href="https://github.com/Diego1403/TetraShift"><strong>TetraShift</strong></a> — Tetris controlled by eye-tracking (OpenCV + dlib)
-</p>
 
 <h3 align="center">Certifications</h3>
 
