@@ -7,7 +7,7 @@
 <h3 align="center">About me</h3>
 
 <p align="center">
-  Data & AI Engineer finishing my CS degree at the University of Jaén.<br>
+  Data & AI Engineer.<br>
   I build production ETL pipelines on <strong>Databricks</strong> and <strong>Apache Spark</strong>,<br>
   and design LLM workflows with <strong>LangGraph</strong> and <strong>Langfuse</strong>.
 </p>
