@@ -9,7 +9,7 @@
 <p align="center">
   Data & AI Engineer.<br>
   I build production ETL pipelines on <strong>Databricks</strong> and <strong>Apache Spark</strong>,<br>
-  and design LLM workflows with <strong>LangGraph</strong> and <strong>Langfuse</strong>.
+  and design LLM workflows.
 </p>
 
 <p align="center">
@@ -17,20 +17,18 @@
   🌍 Open to <strong>Data / ML / AI Engineer</strong> roles <br>
   🎮 Off-hours: gaming, reading about tech, and tinkering with side projects
 </p>
-
 <h3 align="center">Tech stack</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <br>
+  <br />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
+</div>
 
 <h3 align="center">Certifications</h3>
 
